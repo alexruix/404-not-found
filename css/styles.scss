@@ -24,7 +24,7 @@ a{
 
 .hero {
   display: grid;
-  height: 100vh;
+  height: 80vh;
   align-items: center;
   grid-template-columns: minmax(100px, 3fr) 2fr;
   grid-auto-rows: minmax(0, 1fr);
