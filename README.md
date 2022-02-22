@@ -50,15 +50,15 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 -  HTML
 -  SASS
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This site was created as a solution to a challenge [DevChallenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY). The challenge was to create a 404 not found landing page.
+This site was created as a solution to a challenge [DevChallenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY).
+
+ The challenge was to create a 404 not found landing page.
+
 This project helped me to put into practice what I recently learned about CSS Grid.
 
 
@@ -72,7 +72,7 @@ This project helped me to put into practice what I recently learned about CSS Gr
 
 ## Contact
 
-- Website [AlexRuix.netlify.app](https://alexruix.netlify.app/)
-- GitHub [@alexruix](https://{github.com/alexruix})
-- Linkedin [@alexruix](https://{linkedin.com/in/alexruix})
-- Twitter [@alexruixdev](https://{twitter.com/alexruixdev})
+- Website [Alexruix.netlify.app](https://alexruix.netlify.app/)
+- GitHub [@alexruix](https://github.com/alexruix)
+- Linkedin [@alexruix](https://linkedin.com/in/alexruix)
+- Twitter [@alexruixdev](https://twitter.com/alexruixdev)
